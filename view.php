@@ -22,7 +22,7 @@ Displays all data from 'players' table
 
 */
 
-
+//try n error
 
 // connect to the database
 
