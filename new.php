@@ -8,7 +8,7 @@ Allows user to create a new entry in the database
 
 */
 
-
+//edit by an nasihah mohd napi
 
 // creates the new record form
 
