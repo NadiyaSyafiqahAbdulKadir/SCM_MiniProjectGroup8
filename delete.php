@@ -26,7 +26,7 @@ if (isset($_GET['id']) && is_numeric($_GET['id']))
 
 $id = $_GET['id'];
 
-
+add dog
 
 // delete the entry
 
