@@ -8,7 +8,7 @@ Allows PHP to connect to your database
 
 */
 
-
+///Add nadiya
 
 // Database Variables (edit with your own server information)
 
